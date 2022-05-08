@@ -27,7 +27,7 @@
 <h4><b>6.Now you are ready to read the Next section!</b></h4>
 <h2><b>⚙️ How to use?</b></h2>
 <h3><b><i>Deploy on Heroku:</i></b></h3>
-<h4><b>1.First open the app deployment page on Heroku: <a href="https://heroku.com/deploy?template=https://github.com/TheCaduceus/Torrent-to-Multi-Cloud" alt="Deploy on Heroku">Open it</a></b></h4>
+<h4><b>1.First open the app deployment page on Heroku: <a href="https://heroku.com/deploy?template=https://github.com/gokulkannant/QBTRLCH-Multi-Cloud" alt="Deploy on Heroku">Open it</a></b></h4>
 <h4><b>2.Now if you don't have a Heroku account then create once or just login!</b></h4>
 <img src="Img/3.png">
 <h4><b>3.After opening the Deployment page, Enter the following Values</b></h4>
